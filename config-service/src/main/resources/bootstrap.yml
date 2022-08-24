@@ -1,0 +1,6 @@
+encrypt:
+#  key: encrypt.key.01234548755
+  key-store:
+    location: file:///E:\MSA tutorial/e-commerceWB/keystore/apiEncryptionKey.jks
+    password: test1234
+    alias: apiEncryptionKey
