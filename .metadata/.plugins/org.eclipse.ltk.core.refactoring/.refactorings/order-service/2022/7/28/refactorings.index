@@ -1,0 +1,6 @@
+1657286086972	Rename resource 'application.properties'
+1657286416153	Rename type 'CatalogRepository'
+1657286467894	Rename type 'CatalogDto'
+1657286496191	Rename type 'ResponseCatalog'
+1657286534771	Rename type 'CatalogService'
+1657286581025	Rename type 'CatalogServiceImpl'
